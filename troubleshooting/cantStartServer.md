@@ -2,7 +2,7 @@ memo
 > Solution:  
 $ rm -rf node_modules package-lock.json yarn.lock  
 and then  
-$ npm install
+$ npm install  
 or  
 $ yarn install  
     
